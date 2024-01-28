@@ -27,6 +27,8 @@ Welcome to a skid-ripped version of Ez-Hub a mobile-friendly script hub for Robl
 <h3 align="left">____________________________________</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 
 
 <p align="center"><img src="https://www.nicepng.com/png/full/2-22360_batman-png.png" alt=":Pxeq" height="230" width="250" /></p>
