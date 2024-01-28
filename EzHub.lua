@@ -2138,7 +2138,7 @@ end
 -----------------------------------------------
 
 local loadTimerStart = tick();
-loadToStage(0, "Setting up Ez Hub...");
+loadToStage(0, "Setting up Py Armory...");
 
 -- Module links contains all external dependencies of ez hub in one json module
 -- Load all modules inside moduleLinks and store them in a G Table
@@ -2174,7 +2174,7 @@ EzHub.NewsText.Text = (function()
 end)();
 
 if not EzHub.NewsText.TextFits then
-	EzHub.NewsText.Text = "New Hub ran by pxeq to keep scrips updated.";
+	EzHub.NewsText.Text = "New Hub ran by pxeq to keep scripts updated.";
 end
 
 EzHub.TextLabel_8.Text = "Hello "..game.Players.LocalPlayer.Name..", thank you for using Pyarmory";
