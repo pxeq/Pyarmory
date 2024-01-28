@@ -30,9 +30,7 @@ Welcome to a skid-ripped version of Ez-Hub a mobile-friendly script hub for Robl
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://python.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pxeq" height="30" width="40" /></a>
-<a href="https://discord.gg/sUczvnwxDq" target="blank"><img align="center" src="
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          " alt="sUczvnwxDq" height="30" width="40" /></a>
+<a href="https://discord.gg/sUczvnwxDq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" /></a>
 <a href="https://t.me/pxeqq" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png" alt="sUczvnwxDq" height="30" width="40" /></a>
 </p>
 
