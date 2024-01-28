@@ -2294,7 +2294,7 @@ navDebounce = true;
 --[[
 
 _G.DISABLEEXELOG = true;
-loadstring(game:HttpGet("https://raw.githubusercontent.com/pxeq/Pyarmory/master/EzHub.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pxeq/Pyarmory/master/EzHub1.lua"))();
 
 ]]
 
