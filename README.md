@@ -7,15 +7,15 @@ Welcome to a skid-ripped version of Ez-Hub a mobile-friendly script hub for Robl
 
 -  Changelog: [HERE](https://app.archbee.com/public/PREVIEW-_KNUQ-5rhuyvSXvlcJ3H6/PREVIEW-qHcBJyRMyzzeSFOMHX09l)
 
-- 📚 I’m currently adding **new scripts to replace outdated ones**
+-  📚 I’m currently adding **new scripts to replace outdated ones**
+
+-   📩 Email me at: **pxeq@dr.com**
 
 
 | Command | Description |
 | --- | --- |
 | `loadstring(game:HttpGet(('https://raw.githubusercontent.com/pxeq/Ez-Industries-Launcher-Data/master/Launcher.lua'),true))()` | execute hub |
 
-
-- 📩 Email me at: **pxeq@dr.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
