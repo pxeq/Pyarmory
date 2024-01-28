@@ -612,7 +612,7 @@ do
 	EzHub.TextLabel_4.Position = UDim2.new(0.281449914, 0, 0.0533807874, 0)
 	EzHub.TextLabel_4.Size = UDim2.new(0, 200, 0, 43)
 	EzHub.TextLabel_4.Font = Enum.Font.SourceSans
-	EzHub.TextLabel_4.Text = "Developer:"
+	EzHub.TextLabel_4.Text = "Developers:"
 	EzHub.TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
 	EzHub.TextLabel_4.TextSize = 21.000
 
