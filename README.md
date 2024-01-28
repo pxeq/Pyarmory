@@ -14,7 +14,7 @@ Welcome to a skid-ripped version of Ez-Hub a mobile-friendly script hub for Robl
 
 | Command | Description |
 | --- | --- |
-| `loadstring(game:HttpGet(('https://raw.githubusercontent.com/pxeq/Ez-Industries-Launcher-Data/master/Launcher.lua'),true))()` | execute hub |
+| `loadstring(game:HttpGet(('https://raw.githubusercontent.com/pxeq/Ez-Industries-Launcher-Data/master/Launcher.lua'),true))()` | run this in an exectutor to open hub |
 
 
 <h3 align="left">Connect with me:</h3>
