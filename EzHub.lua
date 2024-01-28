@@ -633,7 +633,7 @@ do
 	EzHub.TextLabel_6.Position = UDim2.new(0.268656731, 0, 0.555160224, 0)
 	EzHub.TextLabel_6.Size = UDim2.new(0, 213, 0, 43)
 	EzHub.TextLabel_6.Font = Enum.Font.SourceSans
-	EzHub.TextLabel_6.Text = "Discord: CEO of pxeq"
+	EzHub.TextLabel_6.Text = "Discord: pxeq"
 	EzHub.TextLabel_6.TextColor3 = Color3.fromRGB(255, 255, 255)
 	EzHub.TextLabel_6.TextSize = 18.000
 	EzHub.TextLabel_6.TextWrapped = true
