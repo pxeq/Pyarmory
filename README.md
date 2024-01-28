@@ -12,7 +12,7 @@ Welcome to a skid-ripped version of Ez-Hub a mobile-friendly script hub for Robl
 
 | Command | Description |
 | --- | --- |
-| `git status` | List all *new or modified* files |
+| `loadstring(game:HttpGet(('https://raw.githubusercontent.com/pxeq/Ez-Industries-Launcher-Data/master/Launcher.lua'),true))()` | execute hub |
 | `git diff` | Show file differences that **haven't been** staged |
 
 - 📩 Email me at: **pxeq@dr.com**
