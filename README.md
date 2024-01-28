@@ -1,7 +1,11 @@
 #Ez-Hub
 
-Welcome to the repository of Ez Hub. Ez Hub is open source. Please use this as a way to learn.<br/>
-Changelog and Docs: https://app.archbee.com/public/PTplYowLy93mKanJeS7F9
+Welcome to the Skid-ripped version of Ez-Hub (by debug420)
+
+This version will have scripts uploaded ASAP when not working and will work on adding more scripts
+
+
+Changelog and Docs: here[https://app.archbee.com/public/PTplYowLy93mKanJeS7F9](https://app.archbee.com/public/PREVIEW-_KNUQ-5rhuyvSXvlcJ3H6/PREVIEW-qHcBJyRMyzzeSFOMHX09l]
 
 Showcases of Ez Hub by other users:
 
