@@ -325,7 +325,7 @@ do
 	EzHub.ExclusivesV2Btn.Size = UDim2.new(0, 200, 0, 50)
 	EzHub.ExclusivesV2Btn.ZIndex = 3
 	EzHub.ExclusivesV2Btn.Font = Enum.Font.SourceSans
-	EzHub.ExclusivesV2Btn.Text = "Trending 1"
+	EzHub.ExclusivesV2Btn.Text = "Trending v1"
 	EzHub.ExclusivesV2Btn.TextColor3 = Color3.fromRGB(255, 255, 255)
 	EzHub.ExclusivesV2Btn.TextSize = 14.000
 
@@ -391,7 +391,7 @@ do
 	EzHub.ExclusivesBtn.Size = UDim2.new(0, 200, 0, 50)
 	EzHub.ExclusivesBtn.ZIndex = 3
 	EzHub.ExclusivesBtn.Font = Enum.Font.SourceSans
-	EzHub.ExclusivesBtn.Text = "Trending 2"
+	EzHub.ExclusivesBtn.Text = "Trending v2"
 	EzHub.ExclusivesBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
 	EzHub.ExclusivesBtn.TextSize = 14.000
 
