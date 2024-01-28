@@ -4,7 +4,7 @@
 </p>
 
 Welcome to a skid-ripped version of Ez-Hub a mobile-friendly script hub for Roblox.
--  Changlog: [pxstress](http://pxstress.com)
+-  Changelog: [HERE](https://app.archbee.com/public/PREVIEW-_KNUQ-5rhuyvSXvlcJ3H6/PREVIEW-qHcBJyRMyzzeSFOMHX09l)
 
 - 📚 I’m currently adding **new scripts to replace outdated ones**
 
