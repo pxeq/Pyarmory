@@ -5,12 +5,15 @@
 
 Welcome to a skid-ripped version of Ez-Hub a mobile-friendly script hub for Roblox.
 
-- to use: loadstring(game:HttpGet(('https://raw.githubusercontent.com/pxeq/Py-Industries-Launcher-Data/master/Launcher.lua'),true))()
-
 -  Changelog: [HERE](https://app.archbee.com/public/PREVIEW-_KNUQ-5rhuyvSXvlcJ3H6/PREVIEW-qHcBJyRMyzzeSFOMHX09l)
 
 - 📚 I’m currently adding **new scripts to replace outdated ones**
 
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
 
 - 📩 Email me at: **pxeq@dr.com**
 
