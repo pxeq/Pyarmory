@@ -325,7 +325,7 @@ do
 	EzHub.ExclusivesV2Btn.Size = UDim2.new(0, 200, 0, 50)
 	EzHub.ExclusivesV2Btn.ZIndex = 3
 	EzHub.ExclusivesV2Btn.Font = Enum.Font.SourceSans
-	EzHub.ExclusivesV2Btn.Text = "Trending V2"
+	EzHub.ExclusivesV2Btn.Text = "Trending V1"
 	EzHub.ExclusivesV2Btn.TextColor3 = Color3.fromRGB(255, 255, 255)
 	EzHub.ExclusivesV2Btn.TextSize = 14.000
 
@@ -391,7 +391,7 @@ do
 	EzHub.ExclusivesBtn.Size = UDim2.new(0, 200, 0, 50)
 	EzHub.ExclusivesBtn.ZIndex = 3
 	EzHub.ExclusivesBtn.Font = Enum.Font.SourceSans
-	EzHub.ExclusivesBtn.Text = "Trending V1"
+	EzHub.ExclusivesBtn.Text = "Trending V2"
 	EzHub.ExclusivesBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
 	EzHub.ExclusivesBtn.TextSize = 14.000
 
@@ -528,7 +528,7 @@ do
 	EzHub.TextLabel_2.Position = UDim2.new(0.409254879, 0, 0.181494668, 0)
 	EzHub.TextLabel_2.Size = UDim2.new(0, 41, 0, 54)
 	EzHub.TextLabel_2.Font = Enum.Font.Cartoon
-	EzHub.TextLabel_2.Text = "Pyar"
+	EzHub.TextLabel_2.Text = "Py"
 	EzHub.TextLabel_2.TextColor3 = Color3.fromRGB(190, 190, 190)
 	EzHub.TextLabel_2.TextSize = 35.000
 	EzHub.TextLabel_2.TextWrapped = true
@@ -540,7 +540,7 @@ do
 	EzHub.TextLabel_3.Position = UDim2.new(0.498399824, 0, 0.181494653, 0)
 	EzHub.TextLabel_3.Size = UDim2.new(0, 62, 0, 54)
 	EzHub.TextLabel_3.Font = Enum.Font.Cartoon
-	EzHub.TextLabel_3.Text = "mory "
+	EzHub.TextLabel_3.Text = "arm "
 	EzHub.TextLabel_3.TextColor3 = Color3.fromRGB(18, 98, 159)
 	EzHub.TextLabel_3.TextSize = 35.000
 	EzHub.TextLabel_3.TextWrapped = true
