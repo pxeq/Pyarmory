@@ -24,13 +24,12 @@ Welcome to a skid-ripped version of Ez-Hub a mobile-friendly script hub for Robl
 <a href="https://t.me/pxeqq" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png" alt="sUczvnwxDq" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">____________________________________</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 
 <h3 align="left">____________________________________</h3>
 <p align="left">
 <a href="https://python.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pxeq" height="40" width="40" /></a>
-<a href="https://discord.gg/sUczvnwxDq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="pxeq" height="40" width="40" /></a>
+<a href="https://www.lua.org" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="pxeq" height="40" width="40" /></a>
 
 </p>
 
