@@ -528,7 +528,7 @@ do
 	EzHub.TextLabel_2.Position = UDim2.new(0.409254879, 0, 0.181494668, 0)
 	EzHub.TextLabel_2.Size = UDim2.new(0, 41, 0, 54)
 	EzHub.TextLabel_2.Font = Enum.Font.Cartoon
-	EzHub.TextLabel_2.Text = "Py"
+	EzHub.TextLabel_2.Text = "Pyar"
 	EzHub.TextLabel_2.TextColor3 = Color3.fromRGB(190, 190, 190)
 	EzHub.TextLabel_2.TextSize = 35.000
 	EzHub.TextLabel_2.TextWrapped = true
@@ -540,7 +540,7 @@ do
 	EzHub.TextLabel_3.Position = UDim2.new(0.498399824, 0, 0.181494653, 0)
 	EzHub.TextLabel_3.Size = UDim2.new(0, 62, 0, 54)
 	EzHub.TextLabel_3.Font = Enum.Font.Cartoon
-	EzHub.TextLabel_3.Text = "armory "
+	EzHub.TextLabel_3.Text = "mory "
 	EzHub.TextLabel_3.TextColor3 = Color3.fromRGB(18, 98, 159)
 	EzHub.TextLabel_3.TextSize = 35.000
 	EzHub.TextLabel_3.TextWrapped = true
@@ -783,7 +783,7 @@ do
 	EzHub.TextLabel_8.Position = UDim2.new(0.367984951, 0, 0.145299152, 0)
 	EzHub.TextLabel_8.Size = UDim2.new(0, 239, 0, 83)
 	EzHub.TextLabel_8.Font = Enum.Font.SourceSans
-	EzHub.TextLabel_8.Text = "Hello happygeneral2015, Thank you for using Ez Hub"
+	EzHub.TextLabel_8.Text = "Hello happygeneral2015, Thank you for using Py Armory"
 	EzHub.TextLabel_8.TextColor3 = Color3.fromRGB(255, 255, 255)
 	EzHub.TextLabel_8.TextSize = 16.000
 	EzHub.TextLabel_8.TextWrapped = true
