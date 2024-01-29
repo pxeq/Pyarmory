@@ -2637,8 +2637,8 @@ terminalPrint("Loading Pyarmory Terminal...", "y");
 
 local commands = {};	-- stores all commands and their functions
 local tips = {
-	"Ez Terminal is Ez CMD merged with Pyarmory. This was only done because of the amount of users that wished to see Py CMD being worked on again.",
-	"Ez Terminal allows you to access many functions of Pyarmory that you won't be able to access with a GUI button.",
+	"Py Terminal is Ez CMD merged with Pyarmory. This was only done because of the amount of users that wished to see Py CMD being worked on again.",
+	"Py Terminal allows you to access many functions of Pyarmory that you won't be able to access with a GUI button.",
 	"Type cmdlist or one of it's aliases to view all the possible commands.",
 	"Pyarmory and the terminal is fully open source! Go to the Github repo to view the source."
 };
